@@ -73,4 +73,4 @@ Se você tiver alguma dúvida ou sugestão, entre em contato:
 
 - Nome: Vagner Matheus
 - Email: vagnerdacruz48@gmail.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/vagner-matheus/)
+- LinkedIn: (https://www.linkedin.com/in/vagner-matheus/)
